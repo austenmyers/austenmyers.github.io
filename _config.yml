@@ -10,7 +10,7 @@ title:               Austen Myers
 tagline:             'a data dude from earth. former myspace king. -ivory cherry blossom.'
 description:         'built with love on earth.'
 url:                 http://austenmyers.com
-baseurl:             ''
+baseurl:             'http://username.github.io/austenmyers/'
 paginate:            5
 
 # About/contact
